@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WidgetTest</string>
+    <string-array name="names">
+        <item>ramya</item>
+        <item>navya</item>
+    </string-array>
+    <string-array name="details">
+        <item>details of ramss</item>
+        <item>details of navvu</item>
+    </string-array>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>
